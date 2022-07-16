@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "460315449242",
+    "project_id": "whatsgrouplinks-f83b1",
+    "storage_bucket": "whatsgrouplinks-f83b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460315449242:android:dd7eec900d18a63cfa0c23",
+        "android_client_info": {
+          "package_name": "com.macdev.admingroupspanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460315449242-l4mdr6vts4b152g3mk5lsf6bh0sn3lmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_NbUuUZrM5XvZccT7HOZy_4Y2gWYh3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460315449242-l4mdr6vts4b152g3mk5lsf6bh0sn3lmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460315449242:android:731c45aa81252903fa0c23",
+        "android_client_info": {
+          "package_name": "com.macdev.whatsgrouplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460315449242-l4mdr6vts4b152g3mk5lsf6bh0sn3lmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_NbUuUZrM5XvZccT7HOZy_4Y2gWYh3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460315449242-l4mdr6vts4b152g3mk5lsf6bh0sn3lmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

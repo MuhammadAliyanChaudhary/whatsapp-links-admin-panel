@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AdminGroupsPanel" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q"> false </item>
+
+
+        <item name="colorPrimary">@color/primary_main</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_main</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+
+
+
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+
+
+        <!-- android:textColorSecondary is the color of the menu overflow icon (three vertical dots) -->
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+</resources>
